@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodem1462201",
+    "sketch": "usb_serial_relay/usb_serial_relay.ino"
+}
